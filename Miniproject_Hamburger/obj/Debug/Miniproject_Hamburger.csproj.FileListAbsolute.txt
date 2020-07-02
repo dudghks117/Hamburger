@@ -1,0 +1,11 @@
+C:\Hamburger\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe.config
+C:\Hamburger\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe
+C:\Hamburger\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.pdb
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csprojAssemblyReference.cache
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.MainForm.resources
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.Properties.Resources.resources
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.GenerateResource.cache
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.CoreCompileInputs.cache
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.exe
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.pdb
+C:\Hamburger\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.PrdProgress.resources

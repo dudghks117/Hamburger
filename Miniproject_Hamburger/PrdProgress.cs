@@ -7,28 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Diagnostics;
 
 namespace Miniproject_Hamburger
 {
-    public partial class MainForm : Form
+    public partial class PrdProgress : Form
     {
-        public MainForm()
+        public PrdProgress()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void PrdProgress_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("ㅇㅇ");
         }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-            PrdProgress progressform = new PrdProgress();
-            progressform.Show();
-        }
-
-
     }
 }
