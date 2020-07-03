@@ -1,6 +1,6 @@
 ﻿namespace Miniproject_Hamburger
 {
-    partial class MainForm
+    partial class mainForm
     {
         /// <summary>
         /// 필수 디자이너 변수입니다.
@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(345, 193);
+            this.button1.Location = new System.Drawing.Point(363, 10);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -47,8 +47,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
+            this.IsMdiContainer = true;
             this.Name = "MainForm";
+            this.Padding = new System.Windows.Forms.Padding(0, 50, 0, 0);
             this.Text = "Form1";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
 
         }

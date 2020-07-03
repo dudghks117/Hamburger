@@ -10,14 +10,23 @@ using System.Windows.Forms;
 
 namespace Miniproject_Hamburger
 {
-    public partial class MainForm : Form
+    public partial class mainForm : Form
     {
-        public MainForm()
+        public mainForm()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            OrderForm order = new OrderForm();
+            order.Dock = DockStyle.Fill;
+            order.MdiParent = this;
+
+            order.Show();
+        }
+
+        public static void newOrder(int orderID)
         {
 
         }
